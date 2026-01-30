@@ -1,10 +1,37 @@
-# 这是订阅源列表，每行一个订阅地址
-# This is a list of subscription sources, with one subscription address per line
-
-
-
-
-
-[WHITELIST]
-# 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
-# This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
+https://tg-sub-bot.sharewithyou.dpdns.org/m3u?token=678b9827-a934-4832-8661-b93414eb0235
+https://live.iptv-free.com/iptv/categories/sports.m3u
+https://live.iptv-free.com/iptv/categories/entertainment.m3u
+https://live.iptv-free.com/iptv/categories/movies.m3u
+https://live.iptv-free.com/iptv/categories/news.m3u
+https://live.iptv-free.com/iptv/categories/general.m3u
+https://live.iptv-free.com/iptv/categories/documentary.m3u
+https://live.iptv-free.com/iptv/categories/comedy.m3u
+https://live.iptv-free.com/iptv/categories/classic.m3u
+https://live.hacks.tools/tv/ipv4/categories/春晚频道.m3u
+https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u
+https://live.hacks.tools/tv/ipv4/categories/纪录频道.m3u
+https://live.hacks.tools/tv/ipv4/categories/体育频道.m3u
+https://live.hacks.tools/tv/ipv4/categories/其他频道.m3u
+https://live.hacks.tools/tv/ipv4/categories/数字频道.m3u
+https://live.hacks.tools/tv/ipv4/categories/其他频道.m3u
+https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u
+https://live.hacks.tools/tv/ipv4/categories/综艺频道.m3u
+https://live.hacks.tools/tv/ipv4/categories/taiwan.m3u
+https://live.hacks.tools/tv/ipv4/categories/macau.m3u
+https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u
+https://live.hacks.tools/tv/ipv6/categories/央视频道.m3u
+https://live.hacks.tools/tv/ipv6/categories/地方频道.m3u
+https://live.hacks.tools/tv/ipv6/categories/体育频道.m3u
+https://live.hacks.tools/tv/ipv6/categories/其他频道.m3u
+https://live.hacks.tools/tv/ipv6/categories/卫视频道.m3u
+https://live.hacks.tools/iptv/languages/eng.m3u
+http://west.shaonv.me/tvbox/live.txt
+http://api.lmxsd.cn/2485.txt
+https://gitee.com/jin-xueling/cinematography/raw/master/json.txt
+https://raw.githubusercontent.com/nianxinmj/nxpz/refs/heads/main/lib/live.txt
+https://gitee.com/qlysgzs/qlys/raw/master/qlyc_tv.txt
+https://ghfast.top/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://ghfast.top/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u
+https://live.hacks.tools/tv/iptv4.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
